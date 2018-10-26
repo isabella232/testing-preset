@@ -1,0 +1,2 @@
+
+With Dynamics 365, previous Dynamics CRM functionality is included as a part of a suite of intelligent business applications. The apps that make up the customer relationship management (CRM) portion of the suite are referred to as “Customer Engagement” and include Sales, Customer Service, Field Service, Project Service Automation, and their related services.
