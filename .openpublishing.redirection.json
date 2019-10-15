@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "samplefiles/get-started/whats-new/customer-engagement/online-only-features.md",
+      "redirect_url": "/dynamics365/get-started/whats-new/customer-engagement/online-features",
+      "redirect_document_id": false
+    }
+  ]
+}
